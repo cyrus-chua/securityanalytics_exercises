@@ -1,0 +1,6 @@
+Install Python and Numpy, Pandas, sklearn, matplotlib, seaborn.
+-Download the Obama and Romney poll data as used in this class, and complete following tasks:
+-Describe the "Romney" data
+-Find out pollster(s) on which Romney receive the most and the lest point
+-Draw a graph that shows Romeny's point along time
+-Submit your homework with Ipython Notebook.
