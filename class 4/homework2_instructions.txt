@@ -1,0 +1,8 @@
+Mini project:
+-Use the auto MPG data set mpg.csv
+-Set the feature “mpg” as our target (set “Good” and “Okay” as one class, and “Bad” as another class)
+-Convert categorical feature “maker” into multiple dummy variables
+-What are the top 3 most informative features? What is the maximum information gain and the corresponding threshold for each top 3 features?
+-Build a decision tree model on this data set
+-Make predictions with your tree model over the same data set. What is the highest accuracy you can get?
+-Visualize your decision tree with functions from the lab session
